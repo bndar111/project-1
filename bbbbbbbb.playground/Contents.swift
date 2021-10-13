@@ -12,7 +12,7 @@ struct Item {
 
 class List {
     var tasks = [Item]()
-
+    
     func create(task:Item){
         tasks.append(task)
         
@@ -34,6 +34,7 @@ class List {
         
     }
     
+    
     func remove(index: Int){
         tasks.remove(at: index)
     }
@@ -53,11 +54,12 @@ myList.create(task: task3)
 myList.create(task: task4)
 myList.create(task: task5)
 myList.create(task: task6)
+myList.read()
+
 
 myList.updateTitle(index: 0, newText: "go to libery")
 myList.read()
 
+
 myList.remove(index: 0)
-
 myList.read()
-
