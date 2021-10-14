@@ -27,6 +27,7 @@ class List {
             }
             print("Task: \(item.title) .. \(item.time) .. \(status)")
         }
+        print("\n\n")
     }
     
     func updateTitle(index: Int ,newText: String){
