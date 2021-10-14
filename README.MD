@@ -2,15 +2,15 @@ Program : To Do Lest
 
 Overview : Talking About Daily Tasks
 
-1- To create a new list . 
+1- To Create A New To Do Item . 
 
-2- To Create A New To Do Item . 
+2- To Read All To Do Items . 
 
-3- To Read All To Do Items . 
+3- To Update One To Do Item . 
 
-4- To Update One To Do Item . 
+4- To Delete Item From To Do List . 
 
-5- To Delete Item From To Do List . 
+
 
 Usage : In My Daily Tasks
 
@@ -18,7 +18,7 @@ Usage : In My Daily Tasks
 
 Upcoming Features :
  
-I will add tasks to List . 
+1- I will add tasks to List . 
 
 2- List sorting items according to the conditioned status . 
 
