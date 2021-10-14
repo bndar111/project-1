@@ -2,7 +2,7 @@ Program : To Do Lest
 
 Overview : Talking About Daily Tasks
 
-1- to create a new list . 
+1- To create a new list . 
 
 2- To Create A New To Do Item . 
 
