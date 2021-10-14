@@ -14,7 +14,7 @@ Overview : Talking About Daily Tasks
 
 Usage : In My Daily Tasks
 
-Know Issues : 
+
 
 Upcoming Features :
  
